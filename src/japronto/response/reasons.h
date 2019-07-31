@@ -45,6 +45,7 @@ static const char* reasons_4xx[] = {
   "Unsupported Media Type", //415
   "Requested Range Not Satisfiable", //416
   "Expectation Failed", //417
+  "I'm a teapot", //418
 };
 
 static const char* reasons_5xx[] = {
