@@ -66,6 +66,6 @@ static const ReasonRange reason_ranges[] = {
   {reasons_1xx, 1},
   {reasons_2xx, 6},
   {reasons_3xx, 7},
-  {reasons_4xx, 17},
+  {reasons_4xx, 18},
   {reasons_5xx, 5}
 };
